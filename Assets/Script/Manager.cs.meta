@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 062e10416db514c0780fc6a9f21741e4
+timeCreated: 1503737149
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Note: {fileID: 1420628140087052, guid: 2402763c0ea26425a91aa3f741cff60c, type: 2}
+  - Point_Text: {instanceID: 0}
+  - Dump: {instanceID: 0}
+  - GameStart: {fileID: 1420628140087052, guid: 2402763c0ea26425a91aa3f741cff60c,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
